@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ashokkumar/.android/build-cache/dc94cf18ae09a3dd139f6e34b1488708e41da98d/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ashokkumar/Documents/react/imuslimapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b902dacbfdf1975c83f6d38e7745ef21464acf3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ashokkumar/.android/build-cache/dc94cf18ae09a3dd139f6e34b1488708e41da98d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/ashokkumar/Documents/react/imuslimapp/android/app/build/intermediates/pre-dexed/debug/classes_8656f1a8e104273dc1766db598f5f4194f75b3b8.jar" />
+    </item>
+
+</items>

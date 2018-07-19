@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ashokkumar/Documents/react/imuslimapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ashokkumar/.android/build-cache/d9984259e666803c21c22aaa13b06a88edd4d2d5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ashokkumar/Documents/react/imuslimapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ashokkumar/.android/build-cache/d9984259e666803c21c22aaa13b06a88edd4d2d5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ashokkumar/Documents/react/imuslimapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ashokkumar/.android/build-cache/d9984259e666803c21c22aaa13b06a88edd4d2d5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ashokkumar/Documents/react/imuslimapp/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/ashokkumar/.android/build-cache/b62fb80e577ec8aca1966ae82c80587c453e1eb4/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,146 @@
+html {
+  background-image: url("./assets/img/splash.png");
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-size: cover; }
+
+body {
+  background-color: transparent !important;
+  font-family: Helvetica Neue LT Std !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 20px;
+  color: #000; }
+
+.button {
+  background-color: #e9d000;
+  width: 150px;
+  float: left;
+  margin: 15px;
+  color: #FFF;
+  text-align: center;
+  padding: 10px; }
+
+.main {
+  padding: 20px 0px;
+  margin-bottom: 40px; }
+
+.submit-btn {
+  background-color: #e9d000;
+  color: #000;
+  font-weight: bold; }
+
+.forget-text {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 15px; }
+
+.join-btn {
+  background-color: #e9d000;
+  padding: 5px;
+  font-size: 15px;
+  margin: 0 auto;
+  width: 70px;
+  border-radius: .25rem;
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.d-inline.mx-auto.center {
+  text-align: center !important;
+  display: block !important; }
+
+.form-control {
+  height: 45px; }
+
+.logo {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.craete-btn {
+  background-color: #02c79b;
+  color: #FFF; }
+
+.visiting-btn {
+  background-color: #f08200;
+  color: #FFF; }
+
+button, select {
+  height: 45px !important; }
+
+.btn {
+  height: 45px; }
+
+.camera-div {
+  padding: 10px; }
+  .camera-div .col-4 {
+    padding: 5px; }
+
+.fixed-bottom {
+  background: #22a4a2; }
+
+.nav-fill .nav-item {
+  color: #81fffd; }
+
+.nav-item img {
+  width: 20px !important;
+  height: 20px !important;
+  fill: #f00 !important; }
+
+.menu-bg {
+  background-color: #02c79b;
+  padding: 15px 5px 5px 5px;
+  min-height: 80px;
+  border-radius: 4px; }
+
+.menu-tex {
+  text-align: center;
+  font-size: 14px;
+  color: #FFF;
+  margin-top: 5px; }
+
+.menu .col-3 {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 20px; }
+
+.menu {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  left: 20px; }
+
+.date-area {
+  background-color: #FFF;
+  padding: 5px 0px;
+  color: #02c79b; }
+
+.date-area p {
+  margin-bottom: 0px; }
+
+.item img {
+  width: 100%;
+  height: auto; }
+
+.mar-top {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.udate-box {
+  background-color: #FFF;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px 0px; }
+
+.updat-box-text {
+  font-size: 12px;
+  text-align: justify; }
+
+.social-icon {
+  font-size: 10px; }
+
+/*# sourceMappingURL=main.css.map */
